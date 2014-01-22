@@ -8,6 +8,7 @@ When starting the application, players would each have the version of the game o
 one computer monitor (similar to how the Wii U is set up.) Each player connects to the PC lobby, and then start he game when 
 ready. When the game starts, each player has a 3D view of the world on their own Android device, and a 2D shared view of 
 the world from the PC. The ultimate goal of the game is to race in the maze to be the first to collect 3 stars hidden througout.
+Clients automatically detect the Lobby through the use of Bonjour ZeroConfig, and use RabbitMQ to communicate. All messaging is done with JSON serialization, so that it can be portable between client types.
 
 MSAndroidClient
 ===============
