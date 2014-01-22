@@ -1,0 +1,3 @@
+LobbyState:com.msandroidphoneclient.events.LobbyStateHandler
+GameLoad:com.msandroidphoneclient.events.GameLoadHandler
+PhoneName:Nick

@@ -1,0 +1,1460 @@
+Sat 2013.03.30 at 11:06:08: initialize PCClient
+Sat 2013.03.30 at 11:06:08: Initialize ConnectionManager
+Sat 2013.03.30 at 11:06:54: initialize PCClient
+Sat 2013.03.30 at 11:06:54: Initialize ConnectionManager
+Sat 2013.03.30 at 11:09:00: initialize PCClient
+Sat 2013.03.30 at 11:09:00: Initialize ConnectionManager
+Sat 2013.03.30 at 11:09:00: invalid IP Address:  for host: server
+Sat 2013.03.30 at 11:09:00: invalid IP Address:  for host: lobby
+Tue 2013.04.02 at 06:07:48: initialize PCClient
+Tue 2013.04.02 at 06:07:48: Initialize ConnectionManager
+Tue 2013.04.02 at 06:07:48: invalid IP Address:  for host: server
+Tue 2013.04.02 at 06:07:48: invalid IP Address:  for host: lobby
+Wed 2013.04.03 at 02:26:26: initialize PCClient
+Wed 2013.04.03 at 02:26:27: Initialize ConnectionManager
+Wed 2013.04.03 at 02:29:21: initialize PCClient
+Wed 2013.04.03 at 02:29:21: Initialize ConnectionManager
+Wed 2013.04.03 at 02:29:43: initialize PCClient
+Wed 2013.04.03 at 02:29:43: Initialize ConnectionManager
+Wed 2013.04.03 at 02:38:56: initialize PCClient
+Wed 2013.04.03 at 02:38:56: Initialize ConnectionManager
+Wed 2013.04.03 at 02:39:25: initialize PCClient
+Wed 2013.04.03 at 02:39:25: Initialize ConnectionManager
+Wed 2013.04.03 at 02:39:25: invalid IP Address:  for host: server
+Wed 2013.04.03 at 02:39:25: invalid IP Address: localhost for host: lobby
+Wed 2013.04.03 at 02:39:25: Initialize rabbitmqConnection
+Wed 2013.04.03 at 02:39:26: Could not connect to brokername: lobby address: 192.168.1.64 port: 5672
+Wed 2013.04.03 at 02:39:26: error connecting to rabbitmq
+Wed 2013.04.03 at 02:39:27: Could not connect to brokername: lobby address: 192.168.1.64 port: 5672
+Wed 2013.04.03 at 02:39:27: error connecting to rabbitmq
+Wed 2013.04.03 at 02:39:28: Could not connect to brokername: lobby address: 192.168.1.64 port: 5672
+Wed 2013.04.03 at 02:39:28: error connecting to rabbitmq
+Wed 2013.04.03 at 02:39:29: Connected to lobby
+Wed 2013.04.03 at 02:39:29: Service Announcer Initialized
+Wed 2013.04.03 at 02:40:51: initialize PCClient
+Wed 2013.04.03 at 02:40:52: Initialize ConnectionManager
+Wed 2013.04.03 at 02:40:52: invalid IP Address:  for host: server
+Wed 2013.04.03 at 02:40:52: invalid IP Address: localhost for host: lobby
+Wed 2013.04.03 at 02:40:52: Initialize rabbitmqConnection
+Wed 2013.04.03 at 02:40:52: Connected to lobby
+Wed 2013.04.03 at 02:40:52: Service Announcer Initialized
+Wed 2013.04.03 at 02:57:30: initialize PCClient
+Wed 2013.04.03 at 02:57:30: Initialize ConnectionManager
+Wed 2013.04.03 at 02:57:30: invalid IP Address:  for host: server
+Wed 2013.04.03 at 02:57:30: invalid IP Address: localhost for host: lobby
+Wed 2013.04.03 at 02:57:30: Initialize rabbitmqConnection
+Wed 2013.04.03 at 02:57:31: Could not connect to brokername: lobby address: 192.168.1.64 port: 5672
+Wed 2013.04.03 at 02:57:31: error connecting to rabbitmq
+Wed 2013.04.03 at 02:57:32: Could not connect to brokername: lobby address: 192.168.1.64 port: 5672
+Wed 2013.04.03 at 02:57:32: error connecting to rabbitmq
+Wed 2013.04.03 at 02:57:33: Could not connect to brokername: lobby address: 192.168.1.64 port: 5672
+Wed 2013.04.03 at 02:57:33: error connecting to rabbitmq
+Wed 2013.04.03 at 02:57:34: Connected to lobby
+Wed 2013.04.03 at 02:57:34: Service Announcer Initialized
+Wed 2013.04.03 at 02:57:41: initialize PCClient
+Wed 2013.04.03 at 02:57:41: Initialize ConnectionManager
+Wed 2013.04.03 at 02:57:41: invalid IP Address:  for host: server
+Wed 2013.04.03 at 02:57:41: invalid IP Address: localhost for host: lobby
+Wed 2013.04.03 at 02:57:41: Initialize rabbitmqConnection
+Wed 2013.04.03 at 02:57:41: Connected to lobby
+Wed 2013.04.03 at 02:57:41: Service Announcer Initialized
+Wed 2013.04.03 at 09:49:09: initialize PCClient
+Wed 2013.04.03 at 09:49:09: Initialize ConnectionManager
+Wed 2013.04.03 at 09:49:10: invalid IP Address:  for host: server
+Wed 2013.04.03 at 09:49:10: invalid IP Address: localhost for host: lobby
+Wed 2013.04.03 at 09:49:10: Initialize rabbitmqConnection
+Wed 2013.04.03 at 09:49:11: error connecting to rabbitmq
+Wed 2013.04.03 at 09:49:12: error connecting to rabbitmq
+Wed 2013.04.03 at 09:49:13: error connecting to rabbitmq
+Wed 2013.04.03 at 09:49:14: error connecting to rabbitmq
+Wed 2013.04.03 at 09:49:14: Connected to lobby
+Wed 2013.04.03 at 09:49:14: Service Announcer Initialized
+Sun 2013.04.14 at 04:29:01: initialize PCClient
+Sun 2013.04.14 at 04:29:01: Initialize ConnectionManager
+Sun 2013.04.14 at 04:29:01: invalid IP Address:  for host: server
+Sun 2013.04.14 at 04:29:01: invalid IP Address: localhost for host: lobby
+Sun 2013.04.14 at 04:29:01: Initialize rabbitmqConnection
+Sun 2013.04.14 at 04:29:02: Connected to lobby
+Sun 2013.04.14 at 04:29:03: Service Announcer Initialized
+Sun 2013.04.14 at 04:31:00: initialize PCClient
+Sun 2013.04.14 at 04:31:01: Initialize ConnectionManager
+Sun 2013.04.14 at 04:31:01: invalid IP Address:  for host: server
+Sun 2013.04.14 at 04:31:01: invalid IP Address: localhost for host: lobby
+Sun 2013.04.14 at 04:31:01: Initialize rabbitmqConnection
+Sun 2013.04.14 at 04:31:01: Connected to lobby
+Sun 2013.04.14 at 04:31:01: Service Announcer Initialized
+Sun 2013.04.14 at 04:32:49: initialize PCClient
+Sun 2013.04.14 at 04:32:49: Initialize ConnectionManager
+Sun 2013.04.14 at 04:32:49: invalid IP Address:  for host: server
+Sun 2013.04.14 at 04:32:49: invalid IP Address: localhost for host: lobby
+Sun 2013.04.14 at 04:32:49: Initialize rabbitmqConnection
+Sun 2013.04.14 at 04:32:50: error connecting to rabbitmq
+Sun 2013.04.14 at 04:32:51: error connecting to rabbitmq
+Sun 2013.04.14 at 04:32:52: Connected to lobby
+Sun 2013.04.14 at 04:32:52: Service Announcer Initialized
+Mon 2013.04.15 at 05:37:51: initialize PCClient
+Mon 2013.04.15 at 05:37:51: Initialize ConnectionManager
+Mon 2013.04.15 at 05:37:51: invalid IP Address: localhost for host: server
+Mon 2013.04.15 at 05:37:51: invalid IP Address: localhost for host: lobby
+Mon 2013.04.15 at 05:37:51: Initialize rabbitmqConnection
+Mon 2013.04.15 at 05:37:52: Connected to lobby
+Mon 2013.04.15 at 05:37:52: Service Announcer Initialized
+Thu 2013.04.18 at 01:22:47: initialize PCClient
+Thu 2013.04.18 at 01:22:48: Initialize ConnectionManager
+Thu 2013.04.18 at 01:22:48: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 01:22:48: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 01:22:48: Initialize rabbitmqConnection
+Thu 2013.04.18 at 01:22:49: error connecting to rabbitmq
+Thu 2013.04.18 at 01:22:50: error connecting to rabbitmq
+Thu 2013.04.18 at 01:22:51: error connecting to rabbitmq
+Thu 2013.04.18 at 01:22:52: error connecting to rabbitmq
+Thu 2013.04.18 at 01:22:53: error connecting to rabbitmq
+Thu 2013.04.18 at 01:22:54: Connected to lobby
+Thu 2013.04.18 at 01:22:54: Service Announcer Initialized
+Thu 2013.04.18 at 01:23:49: initialize PCClient
+Thu 2013.04.18 at 01:23:49: Initialize ConnectionManager
+Thu 2013.04.18 at 01:23:49: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 01:23:49: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 01:23:49: Initialize rabbitmqConnection
+Thu 2013.04.18 at 01:23:49: Connected to lobby
+Thu 2013.04.18 at 01:23:49: Service Announcer Initialized
+Thu 2013.04.18 at 01:24:01: initialize PCClient
+Thu 2013.04.18 at 01:24:01: Initialize ConnectionManager
+Thu 2013.04.18 at 01:24:01: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 01:24:01: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 01:24:01: Initialize rabbitmqConnection
+Thu 2013.04.18 at 01:24:01: Connected to lobby
+Thu 2013.04.18 at 01:24:01: Service Announcer Initialized
+Thu 2013.04.18 at 01:28:09: initialize PCClient
+Thu 2013.04.18 at 01:28:09: Initialize ConnectionManager
+Thu 2013.04.18 at 01:28:09: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 01:28:09: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 01:28:09: Initialize rabbitmqConnection
+Thu 2013.04.18 at 01:28:09: Connected to lobby
+Thu 2013.04.18 at 01:28:09: Service Announcer Initialized
+Thu 2013.04.18 at 04:08:45: initialize PCClient
+Thu 2013.04.18 at 04:08:45: Initialize ConnectionManager
+Thu 2013.04.18 at 04:08:45: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 04:08:45: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 04:08:45: Initialize rabbitmqConnection
+Thu 2013.04.18 at 04:08:46: error connecting to rabbitmq
+Thu 2013.04.18 at 04:08:47: error connecting to rabbitmq
+Thu 2013.04.18 at 04:08:48: Connected to lobby
+Thu 2013.04.18 at 04:08:48: Service Announcer Initialized
+Thu 2013.04.18 at 04:12:39: initialize PCClient
+Thu 2013.04.18 at 04:12:40: Initialize ConnectionManager
+Thu 2013.04.18 at 04:12:40: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 04:12:40: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 04:12:40: Initialize rabbitmqConnection
+Thu 2013.04.18 at 04:12:40: Connected to lobby
+Thu 2013.04.18 at 04:12:40: Service Announcer Initialized
+Thu 2013.04.18 at 04:16:25: initialize PCClient
+Thu 2013.04.18 at 04:16:25: Initialize ConnectionManager
+Thu 2013.04.18 at 04:16:25: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 04:16:25: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 04:16:25: Initialize rabbitmqConnection
+Thu 2013.04.18 at 04:16:25: Connected to lobby
+Thu 2013.04.18 at 04:16:25: Service Announcer Initialized
+Thu 2013.04.18 at 04:31:42: initialize PCClient
+Thu 2013.04.18 at 04:31:43: Initialize ConnectionManager
+Thu 2013.04.18 at 04:31:43: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 04:31:43: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 04:31:43: Initialize rabbitmqConnection
+Thu 2013.04.18 at 04:31:43: Connected to lobby
+Thu 2013.04.18 at 04:31:43: Service Announcer Initialized
+Thu 2013.04.18 at 04:44:30: initialize PCClient
+Thu 2013.04.18 at 04:44:31: Initialize ConnectionManager
+Thu 2013.04.18 at 04:44:31: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 04:44:31: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 04:44:31: Initialize rabbitmqConnection
+Thu 2013.04.18 at 04:44:32: error connecting to rabbitmq
+Thu 2013.04.18 at 04:44:33: error connecting to rabbitmq
+Thu 2013.04.18 at 04:44:34: error connecting to rabbitmq
+Thu 2013.04.18 at 04:44:34: Connected to lobby
+Thu 2013.04.18 at 04:44:34: Service Announcer Initialized
+Thu 2013.04.18 at 05:00:54: initialize PCClient
+Thu 2013.04.18 at 05:00:54: Initialize ConnectionManager
+Thu 2013.04.18 at 05:00:54: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 05:00:54: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 05:00:54: Initialize rabbitmqConnection
+Thu 2013.04.18 at 05:00:54: Connected to lobby
+Thu 2013.04.18 at 05:00:54: Service Announcer Initialized
+Thu 2013.04.18 at 05:29:07: initialize PCClient
+Thu 2013.04.18 at 05:29:07: Initialize ConnectionManager
+Thu 2013.04.18 at 05:29:07: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 05:29:07: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 05:29:07: Initialize rabbitmqConnection
+Thu 2013.04.18 at 05:29:07: Connected to lobby
+Thu 2013.04.18 at 05:29:07: Service Announcer Initialized
+Thu 2013.04.18 at 06:20:00: initialize PCClient
+Thu 2013.04.18 at 06:20:00: Initialize ConnectionManager
+Thu 2013.04.18 at 06:20:00: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 06:20:00: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 06:20:00: Initialize rabbitmqConnection
+Thu 2013.04.18 at 06:20:01: Connected to lobby
+Thu 2013.04.18 at 06:20:01: Service Announcer Initialized
+Thu 2013.04.18 at 06:25:16: initialize PCClient
+Thu 2013.04.18 at 06:25:16: Initialize ConnectionManager
+Thu 2013.04.18 at 06:25:16: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 06:25:16: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 06:25:16: Initialize rabbitmqConnection
+Thu 2013.04.18 at 06:25:17: error connecting to rabbitmq
+Thu 2013.04.18 at 06:25:18: error connecting to rabbitmq
+Thu 2013.04.18 at 06:25:19: Connected to lobby
+Thu 2013.04.18 at 06:25:19: Service Announcer Initialized
+Thu 2013.04.18 at 06:32:35: initialize PCClient
+Thu 2013.04.18 at 06:32:35: Initialize ConnectionManager
+Thu 2013.04.18 at 06:32:35: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 06:32:35: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 06:32:35: Initialize rabbitmqConnection
+Thu 2013.04.18 at 06:32:35: Connected to lobby
+Thu 2013.04.18 at 06:32:35: Service Announcer Initialized
+Thu 2013.04.18 at 07:20:36: initialize PCClient
+Thu 2013.04.18 at 07:20:36: Initialize ConnectionManager
+Thu 2013.04.18 at 07:20:36: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 07:20:36: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 07:20:36: Initialize rabbitmqConnection
+Thu 2013.04.18 at 07:20:36: Connected to lobby
+Thu 2013.04.18 at 07:20:36: Service Announcer Initialized
+Thu 2013.04.18 at 07:28:24: initialize PCClient
+Thu 2013.04.18 at 07:28:24: Initialize ConnectionManager
+Thu 2013.04.18 at 07:28:24: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 07:28:24: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 07:28:24: Initialize rabbitmqConnection
+Thu 2013.04.18 at 07:28:25: error connecting to rabbitmq
+Thu 2013.04.18 at 07:28:26: error connecting to rabbitmq
+Thu 2013.04.18 at 07:28:27: Connected to lobby
+Thu 2013.04.18 at 07:28:27: Service Announcer Initialized
+Thu 2013.04.18 at 07:30:37: initialize PCClient
+Thu 2013.04.18 at 07:30:37: Initialize ConnectionManager
+Thu 2013.04.18 at 07:30:37: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 07:30:37: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 07:30:37: Initialize rabbitmqConnection
+Thu 2013.04.18 at 07:30:37: Connected to lobby
+Thu 2013.04.18 at 07:30:37: Service Announcer Initialized
+Thu 2013.04.18 at 07:35:26: initialize PCClient
+Thu 2013.04.18 at 07:35:26: Initialize ConnectionManager
+Thu 2013.04.18 at 07:35:26: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 07:35:26: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 07:35:26: Initialize rabbitmqConnection
+Thu 2013.04.18 at 07:35:26: Connected to lobby
+Thu 2013.04.18 at 07:35:26: Service Announcer Initialized
+Thu 2013.04.18 at 07:41:30: initialize PCClient
+Thu 2013.04.18 at 07:41:30: Initialize ConnectionManager
+Thu 2013.04.18 at 07:41:30: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 07:41:30: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 07:41:30: Initialize rabbitmqConnection
+Thu 2013.04.18 at 07:41:30: Connected to lobby
+Thu 2013.04.18 at 07:41:30: Service Announcer Initialized
+Thu 2013.04.18 at 07:48:01: initialize PCClient
+Thu 2013.04.18 at 07:48:01: Initialize ConnectionManager
+Thu 2013.04.18 at 07:48:01: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 07:48:01: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 07:48:01: Initialize rabbitmqConnection
+Thu 2013.04.18 at 07:48:01: Connected to lobby
+Thu 2013.04.18 at 07:48:01: Service Announcer Initialized
+Thu 2013.04.18 at 08:28:28: initialize PCClient
+Thu 2013.04.18 at 08:28:28: Initialize ConnectionManager
+Thu 2013.04.18 at 08:28:28: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 08:28:28: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 08:28:28: Initialize rabbitmqConnection
+Thu 2013.04.18 at 08:28:28: Connected to lobby
+Thu 2013.04.18 at 08:28:28: Service Announcer Initialized
+Thu 2013.04.18 at 08:36:34: initialize PCClient
+Thu 2013.04.18 at 08:36:34: Initialize ConnectionManager
+Thu 2013.04.18 at 08:36:34: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 08:36:34: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 08:36:34: Initialize rabbitmqConnection
+Thu 2013.04.18 at 08:36:34: Connected to lobby
+Thu 2013.04.18 at 08:36:34: Service Announcer Initialized
+Thu 2013.04.18 at 10:43:00: initialize PCClient
+Thu 2013.04.18 at 10:43:00: Initialize ConnectionManager
+Thu 2013.04.18 at 10:43:00: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 10:43:00: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 10:43:00: Initialize rabbitmqConnection
+Thu 2013.04.18 at 10:43:00: Connected to lobby
+Thu 2013.04.18 at 10:43:00: Service Announcer Initialized
+Thu 2013.04.18 at 11:23:45: initialize PCClient
+Thu 2013.04.18 at 11:23:45: Initialize ConnectionManager
+Thu 2013.04.18 at 11:23:45: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 11:23:45: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 11:23:45: Initialize rabbitmqConnection
+Thu 2013.04.18 at 11:23:45: Connected to lobby
+Thu 2013.04.18 at 11:23:45: Service Announcer Initialized
+Thu 2013.04.18 at 11:24:21: initialize PCClient
+Thu 2013.04.18 at 11:24:21: Initialize ConnectionManager
+Thu 2013.04.18 at 11:24:21: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 11:24:21: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 11:24:21: Initialize rabbitmqConnection
+Thu 2013.04.18 at 11:24:21: Connected to lobby
+Thu 2013.04.18 at 11:24:21: Service Announcer Initialized
+Thu 2013.04.18 at 11:28:04: initialize PCClient
+Thu 2013.04.18 at 11:28:05: Initialize ConnectionManager
+Thu 2013.04.18 at 11:28:05: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 11:28:05: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 11:28:05: Initialize rabbitmqConnection
+Thu 2013.04.18 at 11:28:05: Connected to lobby
+Thu 2013.04.18 at 11:28:05: Service Announcer Initialized
+Thu 2013.04.18 at 11:31:02: initialize PCClient
+Thu 2013.04.18 at 11:31:02: Initialize ConnectionManager
+Thu 2013.04.18 at 11:31:02: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 11:31:02: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 11:31:02: Initialize rabbitmqConnection
+Thu 2013.04.18 at 11:31:03: Connected to lobby
+Thu 2013.04.18 at 11:31:03: Service Announcer Initialized
+Thu 2013.04.18 at 11:37:27: initialize PCClient
+Thu 2013.04.18 at 11:37:27: Initialize ConnectionManager
+Thu 2013.04.18 at 11:37:27: invalid IP Address: localhost for host: server
+Thu 2013.04.18 at 11:37:27: invalid IP Address: localhost for host: lobby
+Thu 2013.04.18 at 11:37:27: Initialize rabbitmqConnection
+Thu 2013.04.18 at 11:37:27: Connected to lobby
+Thu 2013.04.18 at 11:37:27: Service Announcer Initialized
+Fri 2013.04.19 at 11:39:02: initialize PCClient
+Fri 2013.04.19 at 11:39:02: Initialize ConnectionManager
+Fri 2013.04.19 at 11:39:10: initialize PCClient
+Fri 2013.04.19 at 11:39:10: Initialize ConnectionManager
+Fri 2013.04.19 at 11:40:42: initialize PCClient
+Fri 2013.04.19 at 11:40:42: Initialize ConnectionManager
+Fri 2013.04.19 at 11:42:42: initialize PCClient
+Fri 2013.04.19 at 11:42:42: Initialize ConnectionManager
+Fri 2013.04.19 at 11:42:42: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 11:42:42: Initialize rabbitmqConnection
+Fri 2013.04.19 at 11:42:43: error connecting to rabbitmq
+Fri 2013.04.19 at 11:42:44: error connecting to rabbitmq
+Fri 2013.04.19 at 11:42:45: error connecting to rabbitmq
+Fri 2013.04.19 at 11:42:46: error connecting to rabbitmq
+Fri 2013.04.19 at 11:42:47: Connected to lobby
+Fri 2013.04.19 at 11:42:47: Service Announcer Initialized
+Fri 2013.04.19 at 12:00:37: initialize PCClient
+Fri 2013.04.19 at 12:00:37: Initialize ConnectionManager
+Fri 2013.04.19 at 12:00:37: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 12:00:37: Initialize rabbitmqConnection
+Fri 2013.04.19 at 12:00:38: error connecting to rabbitmq
+Fri 2013.04.19 at 12:00:39: error connecting to rabbitmq
+Fri 2013.04.19 at 12:00:40: Connected to lobby
+Fri 2013.04.19 at 12:00:40: Service Announcer Initialized
+Fri 2013.04.19 at 12:11:59: initialize PCClient
+Fri 2013.04.19 at 12:11:59: Initialize ConnectionManager
+Fri 2013.04.19 at 12:11:59: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 12:11:59: Initialize rabbitmqConnection
+Fri 2013.04.19 at 12:11:59: Connected to lobby
+Fri 2013.04.19 at 12:11:59: Service Announcer Initialized
+Fri 2013.04.19 at 12:17:32: initialize PCClient
+Fri 2013.04.19 at 12:17:32: Initialize ConnectionManager
+Fri 2013.04.19 at 12:17:32: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 12:17:32: Initialize rabbitmqConnection
+Fri 2013.04.19 at 12:17:33: error connecting to rabbitmq
+Fri 2013.04.19 at 12:17:34: error connecting to rabbitmq
+Fri 2013.04.19 at 12:17:35: Connected to lobby
+Fri 2013.04.19 at 12:17:35: Service Announcer Initialized
+Fri 2013.04.19 at 12:25:11: initialize PCClient
+Fri 2013.04.19 at 12:25:11: Initialize ConnectionManager
+Fri 2013.04.19 at 12:25:11: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 12:25:11: Initialize rabbitmqConnection
+Fri 2013.04.19 at 12:25:11: Connected to lobby
+Fri 2013.04.19 at 12:25:11: Service Announcer Initialized
+Fri 2013.04.19 at 12:26:38: initialize PCClient
+Fri 2013.04.19 at 12:26:38: Initialize ConnectionManager
+Fri 2013.04.19 at 12:26:38: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 12:26:38: Initialize rabbitmqConnection
+Fri 2013.04.19 at 12:26:39: error connecting to rabbitmq
+Fri 2013.04.19 at 12:26:40: error connecting to rabbitmq
+Fri 2013.04.19 at 12:26:41: Connected to lobby
+Fri 2013.04.19 at 12:26:41: Service Announcer Initialized
+Fri 2013.04.19 at 12:44:40: initialize PCClient
+Fri 2013.04.19 at 12:44:40: Initialize ConnectionManager
+Fri 2013.04.19 at 12:44:40: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 12:44:40: Initialize rabbitmqConnection
+Fri 2013.04.19 at 12:44:40: Connected to lobby
+Fri 2013.04.19 at 12:44:40: Service Announcer Initialized
+Fri 2013.04.19 at 12:52:21: initialize PCClient
+Fri 2013.04.19 at 12:52:21: Initialize ConnectionManager
+Fri 2013.04.19 at 12:52:21: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 12:52:21: Initialize rabbitmqConnection
+Fri 2013.04.19 at 12:52:22: error connecting to rabbitmq
+Fri 2013.04.19 at 12:52:23: error connecting to rabbitmq
+Fri 2013.04.19 at 12:52:24: error connecting to rabbitmq
+Fri 2013.04.19 at 12:52:25: error connecting to rabbitmq
+Fri 2013.04.19 at 12:52:26: error connecting to rabbitmq
+Fri 2013.04.19 at 12:52:27: Connected to lobby
+Fri 2013.04.19 at 12:52:27: Service Announcer Initialized
+Fri 2013.04.19 at 01:00:29: initialize PCClient
+Fri 2013.04.19 at 01:00:29: Initialize ConnectionManager
+Fri 2013.04.19 at 01:00:29: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 01:00:29: Initialize rabbitmqConnection
+Fri 2013.04.19 at 01:00:30: Connected to lobby
+Fri 2013.04.19 at 01:00:30: Service Announcer Initialized
+Fri 2013.04.19 at 01:07:29: initialize PCClient
+Fri 2013.04.19 at 01:07:29: Initialize ConnectionManager
+Fri 2013.04.19 at 01:07:29: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 01:07:29: Initialize rabbitmqConnection
+Fri 2013.04.19 at 01:07:29: Connected to lobby
+Fri 2013.04.19 at 01:07:29: Service Announcer Initialized
+Fri 2013.04.19 at 01:16:50: initialize PCClient
+Fri 2013.04.19 at 01:16:50: Initialize ConnectionManager
+Fri 2013.04.19 at 01:16:50: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 01:16:50: Initialize rabbitmqConnection
+Fri 2013.04.19 at 01:16:51: error connecting to rabbitmq
+Fri 2013.04.19 at 01:16:52: error connecting to rabbitmq
+Fri 2013.04.19 at 01:16:53: Service Announcer Initialized
+Fri 2013.04.19 at 01:59:57: initialize PCClient
+Fri 2013.04.19 at 01:59:57: Initialize ConnectionManager
+Fri 2013.04.19 at 01:59:57: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 01:59:57: Initialize rabbitmqConnection
+Fri 2013.04.19 at 01:59:58: error connecting to rabbitmq
+Fri 2013.04.19 at 01:59:59: error connecting to rabbitmq
+Fri 2013.04.19 at 02:00:00: Service Announcer Initialized
+Fri 2013.04.19 at 03:08:33: initialize PCClient
+Fri 2013.04.19 at 03:08:33: Initialize ConnectionManager
+Fri 2013.04.19 at 03:08:33: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 03:08:33: Initialize rabbitmqConnection
+Fri 2013.04.19 at 03:08:33: Service Announcer Initialized
+Fri 2013.04.19 at 03:11:41: initialize PCClient
+Fri 2013.04.19 at 03:11:41: Initialize ConnectionManager
+Fri 2013.04.19 at 03:11:41: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 03:11:41: Initialize rabbitmqConnection
+Fri 2013.04.19 at 03:11:42: error connecting to rabbitmq
+Fri 2013.04.19 at 03:11:43: error connecting to rabbitmq
+Fri 2013.04.19 at 03:11:44: Service Announcer Initialized
+Fri 2013.04.19 at 03:14:05: initialize PCClient
+Fri 2013.04.19 at 03:14:05: Initialize ConnectionManager
+Fri 2013.04.19 at 03:14:05: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 03:14:05: Initialize rabbitmqConnection
+Fri 2013.04.19 at 03:14:07: error connecting to rabbitmq
+Fri 2013.04.19 at 03:14:08: error connecting to rabbitmq
+Fri 2013.04.19 at 03:14:09: Service Announcer Initialized
+Fri 2013.04.19 at 03:20:10: initialize PCClient
+Fri 2013.04.19 at 03:20:10: Initialize ConnectionManager
+Fri 2013.04.19 at 03:20:10: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 03:20:10: Initialize rabbitmqConnection
+Fri 2013.04.19 at 03:20:12: error connecting to rabbitmq
+Fri 2013.04.19 at 03:20:13: error connecting to rabbitmq
+Fri 2013.04.19 at 03:20:14: Service Announcer Initialized
+Fri 2013.04.19 at 03:23:23: initialize PCClient
+Fri 2013.04.19 at 03:23:23: Initialize ConnectionManager
+Fri 2013.04.19 at 03:23:23: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 03:23:23: Initialize rabbitmqConnection
+Fri 2013.04.19 at 03:23:24: error connecting to rabbitmq
+Fri 2013.04.19 at 03:23:25: error connecting to rabbitmq
+Fri 2013.04.19 at 03:23:26: Service Announcer Initialized
+Fri 2013.04.19 at 03:25:07: initialize PCClient
+Fri 2013.04.19 at 03:25:07: Initialize ConnectionManager
+Fri 2013.04.19 at 03:25:07: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 03:25:07: Initialize rabbitmqConnection
+Fri 2013.04.19 at 03:25:07: Service Announcer Initialized
+Fri 2013.04.19 at 03:25:39: initialize PCClient
+Fri 2013.04.19 at 03:25:39: Initialize ConnectionManager
+Fri 2013.04.19 at 03:25:39: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 03:25:39: Initialize rabbitmqConnection
+Fri 2013.04.19 at 03:25:39: Service Announcer Initialized
+Fri 2013.04.19 at 03:27:38: initialize PCClient
+Fri 2013.04.19 at 03:27:38: Initialize ConnectionManager
+Fri 2013.04.19 at 03:27:38: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 03:27:38: Initialize rabbitmqConnection
+Fri 2013.04.19 at 03:27:39: error connecting to rabbitmq
+Fri 2013.04.19 at 03:27:40: error connecting to rabbitmq
+Fri 2013.04.19 at 03:27:41: Service Announcer Initialized
+Fri 2013.04.19 at 03:27:47: Initialize rabbitmqConnection
+Fri 2013.04.19 at 03:27:48: error connecting to rabbitmq
+Fri 2013.04.19 at 03:27:49: error connecting to rabbitmq
+Fri 2013.04.19 at 03:27:51: error connecting to rabbitmq
+Fri 2013.04.19 at 03:27:52: error connecting to rabbitmq
+Fri 2013.04.19 at 03:27:53: error connecting to rabbitmq
+Fri 2013.04.19 at 03:27:54: error connecting to rabbitmq
+Fri 2013.04.19 at 03:27:55: error connecting to rabbitmq
+Fri 2013.04.19 at 03:27:57: error connecting to rabbitmq
+Fri 2013.04.19 at 03:27:58: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:09: initialize PCClient
+Fri 2013.04.19 at 03:28:09: Initialize ConnectionManager
+Fri 2013.04.19 at 03:28:09: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 03:28:09: Initialize rabbitmqConnection
+Fri 2013.04.19 at 03:28:10: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:11: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:12: Service Announcer Initialized
+Fri 2013.04.19 at 03:28:20: Initialize rabbitmqConnection
+Fri 2013.04.19 at 03:28:21: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:23: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:24: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:25: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:26: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:27: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:29: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:30: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:31: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:32: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:34: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:35: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:36: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:37: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:38: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:39: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:41: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:42: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:43: error connecting to rabbitmq
+Fri 2013.04.19 at 03:28:45: error connecting to rabbitmq
+Fri 2013.04.19 at 03:38:13: initialize PCClient
+Fri 2013.04.19 at 03:38:13: Initialize ConnectionManager
+Fri 2013.04.19 at 03:38:13: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 03:38:13: Initialize rabbitmqConnection
+Fri 2013.04.19 at 03:38:13: Service Announcer Initialized
+Fri 2013.04.19 at 03:38:23: Initialize rabbitmqConnection
+Fri 2013.04.19 at 06:56:49: initialize PCClient
+Fri 2013.04.19 at 06:56:49: Initialize ConnectionManager
+Fri 2013.04.19 at 06:56:49: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 06:56:49: Initialize rabbitmqConnection
+Fri 2013.04.19 at 06:56:50: error connecting to rabbitmq
+Fri 2013.04.19 at 06:56:51: error connecting to rabbitmq
+Fri 2013.04.19 at 06:56:52: error connecting to rabbitmq
+Fri 2013.04.19 at 06:56:53: error connecting to rabbitmq
+Fri 2013.04.19 at 06:56:54: error connecting to rabbitmq
+Fri 2013.04.19 at 06:56:55: error connecting to rabbitmq
+Fri 2013.04.19 at 06:56:56: error connecting to rabbitmq
+Fri 2013.04.19 at 06:56:57: error connecting to rabbitmq
+Fri 2013.04.19 at 06:56:58: error connecting to rabbitmq
+Fri 2013.04.19 at 06:56:59: error connecting to rabbitmq
+Fri 2013.04.19 at 06:57:00: error connecting to rabbitmq
+Fri 2013.04.19 at 06:57:01: error connecting to rabbitmq
+Fri 2013.04.19 at 06:57:02: error connecting to rabbitmq
+Fri 2013.04.19 at 06:57:03: error connecting to rabbitmq
+Fri 2013.04.19 at 07:21:16: initialize PCClient
+Fri 2013.04.19 at 07:21:17: Initialize ConnectionManager
+Fri 2013.04.19 at 07:21:17: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 07:21:17: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:21:18: error connecting to rabbitmq
+Fri 2013.04.19 at 07:21:19: error connecting to rabbitmq
+Fri 2013.04.19 at 07:21:20: Service Announcer Initialized
+Fri 2013.04.19 at 07:21:20: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:21:51: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:35:05: initialize PCClient
+Fri 2013.04.19 at 07:35:05: Initialize ConnectionManager
+Fri 2013.04.19 at 07:35:05: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 07:35:05: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:35:06: error connecting to rabbitmq
+Fri 2013.04.19 at 07:35:07: error connecting to rabbitmq
+Fri 2013.04.19 at 07:35:08: Service Announcer Initialized
+Fri 2013.04.19 at 07:35:08: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:35:59: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:36:47: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:37:19: initialize PCClient
+Fri 2013.04.19 at 07:37:19: Initialize ConnectionManager
+Fri 2013.04.19 at 07:37:19: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 07:37:19: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:37:20: error connecting to rabbitmq
+Fri 2013.04.19 at 07:37:21: error connecting to rabbitmq
+Fri 2013.04.19 at 07:37:22: Service Announcer Initialized
+Fri 2013.04.19 at 07:37:22: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:37:26: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:38:48: initialize PCClient
+Fri 2013.04.19 at 07:38:48: Initialize ConnectionManager
+Fri 2013.04.19 at 07:38:48: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 07:38:48: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:38:49: error connecting to rabbitmq
+Fri 2013.04.19 at 07:38:50: error connecting to rabbitmq
+Fri 2013.04.19 at 07:38:51: Service Announcer Initialized
+Fri 2013.04.19 at 07:38:51: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:38:54: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:40:05: initialize PCClient
+Fri 2013.04.19 at 07:40:05: Initialize ConnectionManager
+Fri 2013.04.19 at 07:40:05: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 07:40:05: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:40:06: error connecting to rabbitmq
+Fri 2013.04.19 at 07:40:07: error connecting to rabbitmq
+Fri 2013.04.19 at 07:40:08: Service Announcer Initialized
+Fri 2013.04.19 at 07:40:08: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:40:15: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:55:23: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:56:55: Initialize rabbitmqConnection
+Fri 2013.04.19 at 07:57:51: Initialize rabbitmqConnection
+Fri 2013.04.19 at 08:05:04: initialize PCClient
+Fri 2013.04.19 at 08:05:05: Initialize ConnectionManager
+Fri 2013.04.19 at 08:05:05: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 08:05:05: Initialize rabbitmqConnection
+Fri 2013.04.19 at 08:05:06: error connecting to rabbitmq
+Fri 2013.04.19 at 08:05:07: error connecting to rabbitmq
+Fri 2013.04.19 at 08:05:08: Service Announcer Initialized
+Fri 2013.04.19 at 08:05:08: Initialize rabbitmqConnection
+Fri 2013.04.19 at 08:05:30: Initialize rabbitmqConnection
+Fri 2013.04.19 at 08:20:33: initialize PCClient
+Fri 2013.04.19 at 08:20:33: Initialize ConnectionManager
+Fri 2013.04.19 at 08:20:33: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 08:20:33: Initialize rabbitmqConnection
+Fri 2013.04.19 at 08:20:34: error connecting to rabbitmq
+Fri 2013.04.19 at 08:20:35: error connecting to rabbitmq
+Fri 2013.04.19 at 08:20:36: Service Announcer Initialized
+Fri 2013.04.19 at 08:20:36: Initialize rabbitmqConnection
+Fri 2013.04.19 at 08:20:44: Initialize rabbitmqConnection
+Fri 2013.04.19 at 08:21:39: Initialize rabbitmqConnection
+Fri 2013.04.19 at 10:23:15: initialize PCClient
+Fri 2013.04.19 at 10:23:15: Initialize ConnectionManager
+Fri 2013.04.19 at 10:23:15: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 10:23:15: Initialize rabbitmqConnection
+Fri 2013.04.19 at 10:23:16: error connecting to rabbitmq
+Fri 2013.04.19 at 10:23:17: error connecting to rabbitmq
+Fri 2013.04.19 at 10:23:18: Service Announcer Initialized
+Fri 2013.04.19 at 10:23:18: Initialize rabbitmqConnection
+Fri 2013.04.19 at 10:25:26: initialize PCClient
+Fri 2013.04.19 at 10:25:26: Initialize ConnectionManager
+Fri 2013.04.19 at 10:25:26: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 10:25:26: Initialize rabbitmqConnection
+Fri 2013.04.19 at 10:25:27: error connecting to rabbitmq
+Fri 2013.04.19 at 10:25:28: error connecting to rabbitmq
+Fri 2013.04.19 at 10:25:29: Service Announcer Initialized
+Fri 2013.04.19 at 10:25:29: Initialize rabbitmqConnection
+Fri 2013.04.19 at 10:26:25: initialize PCClient
+Fri 2013.04.19 at 10:26:25: Initialize ConnectionManager
+Fri 2013.04.19 at 10:26:25: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 10:26:25: Initialize rabbitmqConnection
+Fri 2013.04.19 at 10:26:25: Service Announcer Initialized
+Fri 2013.04.19 at 10:26:25: Initialize rabbitmqConnection
+Fri 2013.04.19 at 10:27:09: initialize PCClient
+Fri 2013.04.19 at 10:27:09: Initialize ConnectionManager
+Fri 2013.04.19 at 10:27:09: invalid IP Address: localhost for host: Game
+Fri 2013.04.19 at 10:27:09: Initialize rabbitmqConnection
+Fri 2013.04.19 at 10:27:10: error connecting to rabbitmq
+Fri 2013.04.19 at 10:27:11: error connecting to rabbitmq
+Fri 2013.04.19 at 10:27:12: Service Announcer Initialized
+Fri 2013.04.19 at 10:27:12: Initialize rabbitmqConnection
+Fri 2013.04.19 at 10:27:21: Initialize rabbitmqConnection
+Mon 2013.04.22 at 01:06:18: initialize PCClient
+Mon 2013.04.22 at 01:06:19: Initialize ConnectionManager
+Mon 2013.04.22 at 01:06:19: invalid IP Address: localhost for host: Game
+Mon 2013.04.22 at 01:06:19: Initialize rabbitmqConnection
+Mon 2013.04.22 at 01:06:23: Service Announcer Initialized
+Mon 2013.04.22 at 01:06:23: Initialize rabbitmqConnection
+Mon 2013.04.22 at 01:21:41: initialize PCClient
+Mon 2013.04.22 at 01:21:42: Initialize ConnectionManager
+Mon 2013.04.22 at 01:21:42: invalid IP Address: localhost for host: Game
+Mon 2013.04.22 at 01:21:42: Initialize rabbitmqConnection
+Mon 2013.04.22 at 01:21:42: Service Announcer Initialized
+Mon 2013.04.22 at 01:21:42: Initialize rabbitmqConnection
+Mon 2013.04.22 at 01:30:49: initialize PCClient
+Mon 2013.04.22 at 01:30:49: Initialize ConnectionManager
+Mon 2013.04.22 at 01:30:49: invalid IP Address: localhost for host: Game
+Mon 2013.04.22 at 01:30:49: Initialize rabbitmqConnection
+Mon 2013.04.22 at 01:30:50: Service Announcer Initialized
+Mon 2013.04.22 at 01:30:50: Initialize rabbitmqConnection
+Mon 2013.04.22 at 01:34:46: initialize PCClient
+Mon 2013.04.22 at 01:34:46: Initialize ConnectionManager
+Mon 2013.04.22 at 01:34:46: invalid IP Address: localhost for host: Game
+Mon 2013.04.22 at 01:34:46: Initialize rabbitmqConnection
+Mon 2013.04.22 at 01:34:46: Service Announcer Initialized
+Mon 2013.04.22 at 01:34:46: Initialize rabbitmqConnection
+Mon 2013.04.22 at 03:22:10: initialize PCClient
+Mon 2013.04.22 at 03:22:10: Initialize ConnectionManager
+Mon 2013.04.22 at 03:22:10: invalid IP Address: localhost for host: Game
+Mon 2013.04.22 at 03:22:10: Initialize rabbitmqConnection
+Mon 2013.04.22 at 03:22:10: Service Announcer Initialized
+Mon 2013.04.22 at 03:22:10: Initialize rabbitmqConnection
+Mon 2013.04.22 at 03:22:34: initialize PCClient
+Mon 2013.04.22 at 03:22:34: Initialize ConnectionManager
+Mon 2013.04.22 at 03:22:34: invalid IP Address: localhost for host: Game
+Mon 2013.04.22 at 03:22:34: Initialize rabbitmqConnection
+Mon 2013.04.22 at 03:22:34: Service Announcer Initialized
+Mon 2013.04.22 at 03:22:34: Initialize rabbitmqConnection
+Mon 2013.04.22 at 03:40:46: initialize PCClient
+Mon 2013.04.22 at 03:40:46: Initialize ConnectionManager
+Mon 2013.04.22 at 03:40:46: invalid IP Address: localhost for host: Game
+Mon 2013.04.22 at 03:40:46: Initialize rabbitmqConnection
+Mon 2013.04.22 at 03:40:46: Service Announcer Initialized
+Mon 2013.04.22 at 03:40:46: Initialize rabbitmqConnection
+Mon 2013.04.22 at 03:41:35: initialize PCClient
+Mon 2013.04.22 at 03:41:35: Initialize ConnectionManager
+Mon 2013.04.22 at 03:41:35: invalid IP Address: localhost for host: Game
+Mon 2013.04.22 at 03:41:35: Initialize rabbitmqConnection
+Mon 2013.04.22 at 03:41:35: Service Announcer Initialized
+Mon 2013.04.22 at 03:41:35: Initialize rabbitmqConnection
+Mon 2013.04.22 at 03:42:36: initialize PCClient
+Mon 2013.04.22 at 03:42:36: Initialize ConnectionManager
+Mon 2013.04.22 at 03:42:36: invalid IP Address: localhost for host: Game
+Mon 2013.04.22 at 03:42:36: Initialize rabbitmqConnection
+Mon 2013.04.22 at 03:42:37: error connecting to rabbitmq
+Mon 2013.04.22 at 03:42:38: error connecting to rabbitmq
+Mon 2013.04.22 at 03:42:39: error connecting to rabbitmq
+Mon 2013.04.22 at 03:42:40: error connecting to rabbitmq
+Mon 2013.04.22 at 03:42:41: error connecting to rabbitmq
+Mon 2013.04.22 at 03:42:42: error connecting to rabbitmq
+Mon 2013.04.22 at 03:42:43: error connecting to rabbitmq
+Mon 2013.04.22 at 03:42:44: error connecting to rabbitmq
+Mon 2013.04.22 at 03:42:45: error connecting to rabbitmq
+Mon 2013.04.22 at 03:42:46: error connecting to rabbitmq
+Mon 2013.04.22 at 03:42:47: Service Announcer Initialized
+Mon 2013.04.22 at 03:42:47: Initialize rabbitmqConnection
+Mon 2013.04.22 at 03:42:57: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:03:24: initialize PCClient
+Tue 2013.04.23 at 12:03:24: Initialize ConnectionManager
+Tue 2013.04.23 at 12:03:24: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 12:03:24: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:03:24: Service Announcer Initialized
+Tue 2013.04.23 at 12:03:24: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:28:30: initialize PCClient
+Tue 2013.04.23 at 12:28:30: Initialize ConnectionManager
+Tue 2013.04.23 at 12:28:30: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 12:28:30: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:28:31: Service Announcer Initialized
+Tue 2013.04.23 at 12:28:31: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:31:41: initialize PCClient
+Tue 2013.04.23 at 12:31:42: Initialize ConnectionManager
+Tue 2013.04.23 at 12:31:42: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 12:31:42: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:31:42: Service Announcer Initialized
+Tue 2013.04.23 at 12:31:42: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:34:57: initialize PCClient
+Tue 2013.04.23 at 12:34:57: Initialize ConnectionManager
+Tue 2013.04.23 at 12:34:57: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 12:34:57: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:34:58: error connecting to rabbitmq
+Tue 2013.04.23 at 12:34:59: error connecting to rabbitmq
+Tue 2013.04.23 at 12:35:00: error connecting to rabbitmq
+Tue 2013.04.23 at 12:35:01: error connecting to rabbitmq
+Tue 2013.04.23 at 12:35:02: Service Announcer Initialized
+Tue 2013.04.23 at 12:35:02: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:35:09: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:38:33: initialize PCClient
+Tue 2013.04.23 at 12:38:33: Initialize ConnectionManager
+Tue 2013.04.23 at 12:38:33: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 12:38:33: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:38:34: error connecting to rabbitmq
+Tue 2013.04.23 at 12:38:35: error connecting to rabbitmq
+Tue 2013.04.23 at 12:38:36: error connecting to rabbitmq
+Tue 2013.04.23 at 12:38:37: error connecting to rabbitmq
+Tue 2013.04.23 at 12:38:38: Service Announcer Initialized
+Tue 2013.04.23 at 12:38:38: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:39:09: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:03:05: initialize PCClient
+Tue 2013.04.23 at 01:03:05: Initialize ConnectionManager
+Tue 2013.04.23 at 01:03:05: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 01:03:05: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:03:06: error connecting to rabbitmq
+Tue 2013.04.23 at 01:03:07: error connecting to rabbitmq
+Tue 2013.04.23 at 01:03:08: error connecting to rabbitmq
+Tue 2013.04.23 at 01:03:09: error connecting to rabbitmq
+Tue 2013.04.23 at 01:03:10: Service Announcer Initialized
+Tue 2013.04.23 at 01:03:10: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:03:21: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:06:48: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:10:27: initialize PCClient
+Tue 2013.04.23 at 01:10:27: Initialize ConnectionManager
+Tue 2013.04.23 at 01:10:27: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 01:10:27: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:10:28: error connecting to rabbitmq
+Tue 2013.04.23 at 01:10:29: error connecting to rabbitmq
+Tue 2013.04.23 at 01:10:30: error connecting to rabbitmq
+Tue 2013.04.23 at 01:10:31: error connecting to rabbitmq
+Tue 2013.04.23 at 01:10:32: Service Announcer Initialized
+Tue 2013.04.23 at 01:10:32: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:10:37: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:14:18: initialize PCClient
+Tue 2013.04.23 at 01:14:18: Initialize ConnectionManager
+Tue 2013.04.23 at 01:14:18: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 01:14:18: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:14:19: error connecting to rabbitmq
+Tue 2013.04.23 at 01:14:20: error connecting to rabbitmq
+Tue 2013.04.23 at 01:14:21: error connecting to rabbitmq
+Tue 2013.04.23 at 01:14:22: error connecting to rabbitmq
+Tue 2013.04.23 at 01:14:22: Service Announcer Initialized
+Tue 2013.04.23 at 01:14:22: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:14:30: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:24:58: initialize PCClient
+Tue 2013.04.23 at 01:24:58: Initialize ConnectionManager
+Tue 2013.04.23 at 01:24:58: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 01:24:58: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:24:59: error connecting to rabbitmq
+Tue 2013.04.23 at 01:25:00: error connecting to rabbitmq
+Tue 2013.04.23 at 01:25:01: error connecting to rabbitmq
+Tue 2013.04.23 at 01:25:02: error connecting to rabbitmq
+Tue 2013.04.23 at 01:25:03: Service Announcer Initialized
+Tue 2013.04.23 at 01:25:03: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:25:09: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:27:53: initialize PCClient
+Tue 2013.04.23 at 01:27:53: Initialize ConnectionManager
+Tue 2013.04.23 at 01:27:53: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 01:27:53: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:27:54: error connecting to rabbitmq
+Tue 2013.04.23 at 01:27:55: error connecting to rabbitmq
+Tue 2013.04.23 at 01:27:56: error connecting to rabbitmq
+Tue 2013.04.23 at 01:27:57: error connecting to rabbitmq
+Tue 2013.04.23 at 01:27:58: Service Announcer Initialized
+Tue 2013.04.23 at 01:27:58: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:28:02: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:33:27: initialize PCClient
+Tue 2013.04.23 at 01:33:27: Initialize ConnectionManager
+Tue 2013.04.23 at 01:33:27: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 01:33:27: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:33:28: error connecting to rabbitmq
+Tue 2013.04.23 at 01:33:29: error connecting to rabbitmq
+Tue 2013.04.23 at 01:33:30: error connecting to rabbitmq
+Tue 2013.04.23 at 01:33:31: error connecting to rabbitmq
+Tue 2013.04.23 at 01:33:33: Service Announcer Initialized
+Tue 2013.04.23 at 01:33:33: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:33:38: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:35:27: initialize PCClient
+Tue 2013.04.23 at 01:35:27: Initialize ConnectionManager
+Tue 2013.04.23 at 01:35:27: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 01:35:27: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:35:28: Service Announcer Initialized
+Tue 2013.04.23 at 01:35:28: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:35:34: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:40:04: initialize PCClient
+Tue 2013.04.23 at 01:40:04: Initialize ConnectionManager
+Tue 2013.04.23 at 01:40:04: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 01:40:04: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:40:05: error connecting to rabbitmq
+Tue 2013.04.23 at 01:40:06: error connecting to rabbitmq
+Tue 2013.04.23 at 01:40:07: error connecting to rabbitmq
+Tue 2013.04.23 at 01:40:08: error connecting to rabbitmq
+Tue 2013.04.23 at 01:40:09: Service Announcer Initialized
+Tue 2013.04.23 at 01:40:09: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:40:23: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:43:08: initialize PCClient
+Tue 2013.04.23 at 01:43:09: Initialize ConnectionManager
+Tue 2013.04.23 at 01:43:09: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 01:43:09: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:43:10: error connecting to rabbitmq
+Tue 2013.04.23 at 01:43:11: error connecting to rabbitmq
+Tue 2013.04.23 at 01:43:12: error connecting to rabbitmq
+Tue 2013.04.23 at 01:43:13: error connecting to rabbitmq
+Tue 2013.04.23 at 01:43:14: Service Announcer Initialized
+Tue 2013.04.23 at 01:43:14: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:43:20: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:54:31: initialize PCClient
+Tue 2013.04.23 at 01:54:31: Initialize ConnectionManager
+Tue 2013.04.23 at 01:54:31: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 01:54:31: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:54:32: error connecting to rabbitmq
+Tue 2013.04.23 at 01:54:33: error connecting to rabbitmq
+Tue 2013.04.23 at 01:54:34: error connecting to rabbitmq
+Tue 2013.04.23 at 01:54:35: error connecting to rabbitmq
+Tue 2013.04.23 at 01:54:35: Service Announcer Initialized
+Tue 2013.04.23 at 01:54:35: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:54:42: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:57:54: initialize PCClient
+Tue 2013.04.23 at 01:57:54: Initialize ConnectionManager
+Tue 2013.04.23 at 01:57:54: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 01:57:54: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:57:55: error connecting to rabbitmq
+Tue 2013.04.23 at 01:57:56: error connecting to rabbitmq
+Tue 2013.04.23 at 01:57:57: error connecting to rabbitmq
+Tue 2013.04.23 at 01:57:58: error connecting to rabbitmq
+Tue 2013.04.23 at 01:57:59: Service Announcer Initialized
+Tue 2013.04.23 at 01:57:59: Initialize rabbitmqConnection
+Tue 2013.04.23 at 01:58:08: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:07:30: initialize PCClient
+Tue 2013.04.23 at 02:07:30: Initialize ConnectionManager
+Tue 2013.04.23 at 02:07:30: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 02:07:30: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:07:31: error connecting to rabbitmq
+Tue 2013.04.23 at 02:07:32: error connecting to rabbitmq
+Tue 2013.04.23 at 02:07:33: error connecting to rabbitmq
+Tue 2013.04.23 at 02:07:34: error connecting to rabbitmq
+Tue 2013.04.23 at 02:07:35: Service Announcer Initialized
+Tue 2013.04.23 at 02:07:35: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:08:03: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:13:37: initialize PCClient
+Tue 2013.04.23 at 02:13:37: Initialize ConnectionManager
+Tue 2013.04.23 at 02:13:37: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 02:13:37: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:13:38: error connecting to rabbitmq
+Tue 2013.04.23 at 02:13:39: error connecting to rabbitmq
+Tue 2013.04.23 at 02:13:40: error connecting to rabbitmq
+Tue 2013.04.23 at 02:13:41: error connecting to rabbitmq
+Tue 2013.04.23 at 02:13:42: Service Announcer Initialized
+Tue 2013.04.23 at 02:13:42: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:13:50: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:18:12: initialize PCClient
+Tue 2013.04.23 at 02:18:12: Initialize ConnectionManager
+Tue 2013.04.23 at 02:18:12: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 02:18:12: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:18:12: Service Announcer Initialized
+Tue 2013.04.23 at 02:18:12: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:18:17: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:21:14: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:22:43: initialize PCClient
+Tue 2013.04.23 at 02:22:43: Initialize ConnectionManager
+Tue 2013.04.23 at 02:22:43: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 02:22:43: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:22:44: error connecting to rabbitmq
+Tue 2013.04.23 at 02:22:45: error connecting to rabbitmq
+Tue 2013.04.23 at 02:22:46: error connecting to rabbitmq
+Tue 2013.04.23 at 02:22:47: error connecting to rabbitmq
+Tue 2013.04.23 at 02:22:47: Service Announcer Initialized
+Tue 2013.04.23 at 02:22:47: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:22:54: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:27:25: initialize PCClient
+Tue 2013.04.23 at 02:27:25: Initialize ConnectionManager
+Tue 2013.04.23 at 02:27:25: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 02:27:25: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:27:26: error connecting to rabbitmq
+Tue 2013.04.23 at 02:27:27: error connecting to rabbitmq
+Tue 2013.04.23 at 02:27:28: error connecting to rabbitmq
+Tue 2013.04.23 at 02:27:29: error connecting to rabbitmq
+Tue 2013.04.23 at 02:27:30: Service Announcer Initialized
+Tue 2013.04.23 at 02:27:30: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:27:35: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:31:07: initialize PCClient
+Tue 2013.04.23 at 02:31:08: Initialize ConnectionManager
+Tue 2013.04.23 at 02:31:08: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 02:31:08: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:31:09: error connecting to rabbitmq
+Tue 2013.04.23 at 02:31:10: error connecting to rabbitmq
+Tue 2013.04.23 at 02:31:11: error connecting to rabbitmq
+Tue 2013.04.23 at 02:31:12: error connecting to rabbitmq
+Tue 2013.04.23 at 02:31:12: Service Announcer Initialized
+Tue 2013.04.23 at 02:31:12: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:31:17: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:34:01: initialize PCClient
+Tue 2013.04.23 at 02:34:01: Initialize ConnectionManager
+Tue 2013.04.23 at 02:34:01: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 02:34:01: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:34:02: error connecting to rabbitmq
+Tue 2013.04.23 at 02:34:03: error connecting to rabbitmq
+Tue 2013.04.23 at 02:34:04: error connecting to rabbitmq
+Tue 2013.04.23 at 02:34:05: error connecting to rabbitmq
+Tue 2013.04.23 at 02:34:06: Service Announcer Initialized
+Tue 2013.04.23 at 02:34:06: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:34:11: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:34:27: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:41:07: initialize PCClient
+Tue 2013.04.23 at 02:41:07: Initialize ConnectionManager
+Tue 2013.04.23 at 02:41:07: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 02:41:07: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:41:08: error connecting to rabbitmq
+Tue 2013.04.23 at 02:41:09: error connecting to rabbitmq
+Tue 2013.04.23 at 02:41:10: error connecting to rabbitmq
+Tue 2013.04.23 at 02:41:11: error connecting to rabbitmq
+Tue 2013.04.23 at 02:41:11: Service Announcer Initialized
+Tue 2013.04.23 at 02:41:11: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:55:01: initialize PCClient
+Tue 2013.04.23 at 02:55:01: Initialize ConnectionManager
+Tue 2013.04.23 at 02:55:01: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 02:55:01: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:55:02: error connecting to rabbitmq
+Tue 2013.04.23 at 02:55:03: error connecting to rabbitmq
+Tue 2013.04.23 at 02:55:04: error connecting to rabbitmq
+Tue 2013.04.23 at 02:55:05: error connecting to rabbitmq
+Tue 2013.04.23 at 02:55:06: Service Announcer Initialized
+Tue 2013.04.23 at 02:55:06: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:55:10: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:55:23: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:59:11: initialize PCClient
+Tue 2013.04.23 at 02:59:11: Initialize ConnectionManager
+Tue 2013.04.23 at 02:59:11: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 02:59:11: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:59:12: Service Announcer Initialized
+Tue 2013.04.23 at 02:59:12: Initialize rabbitmqConnection
+Tue 2013.04.23 at 02:59:18: Initialize rabbitmqConnection
+Tue 2013.04.23 at 03:04:17: initialize PCClient
+Tue 2013.04.23 at 03:04:18: Initialize ConnectionManager
+Tue 2013.04.23 at 03:04:18: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 03:04:18: Initialize rabbitmqConnection
+Tue 2013.04.23 at 03:04:19: error connecting to rabbitmq
+Tue 2013.04.23 at 03:04:20: error connecting to rabbitmq
+Tue 2013.04.23 at 03:04:21: error connecting to rabbitmq
+Tue 2013.04.23 at 03:04:22: error connecting to rabbitmq
+Tue 2013.04.23 at 03:04:22: Service Announcer Initialized
+Tue 2013.04.23 at 03:04:22: Initialize rabbitmqConnection
+Tue 2013.04.23 at 03:04:27: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:09:14: initialize PCClient
+Tue 2013.04.23 at 12:09:15: Initialize ConnectionManager
+Tue 2013.04.23 at 12:09:15: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 12:09:15: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:09:16: Service Announcer Initialized
+Tue 2013.04.23 at 12:09:16: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:09:48: initialize PCClient
+Tue 2013.04.23 at 12:09:48: Initialize ConnectionManager
+Tue 2013.04.23 at 12:09:48: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 12:09:49: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:09:50: error connecting to rabbitmq
+Tue 2013.04.23 at 12:09:51: error connecting to rabbitmq
+Tue 2013.04.23 at 12:09:52: error connecting to rabbitmq
+Tue 2013.04.23 at 12:09:53: error connecting to rabbitmq
+Tue 2013.04.23 at 12:09:54: error connecting to rabbitmq
+Tue 2013.04.23 at 12:09:55: Service Announcer Initialized
+Tue 2013.04.23 at 12:09:55: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:11:20: initialize PCClient
+Tue 2013.04.23 at 12:11:20: Initialize ConnectionManager
+Tue 2013.04.23 at 12:11:20: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 12:11:20: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:11:21: error connecting to rabbitmq
+Tue 2013.04.23 at 12:11:22: error connecting to rabbitmq
+Tue 2013.04.23 at 12:11:23: error connecting to rabbitmq
+Tue 2013.04.23 at 12:11:24: error connecting to rabbitmq
+Tue 2013.04.23 at 12:11:25: error connecting to rabbitmq
+Tue 2013.04.23 at 12:11:26: error connecting to rabbitmq
+Tue 2013.04.23 at 12:11:27: Service Announcer Initialized
+Tue 2013.04.23 at 12:11:27: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:15:12: initialize PCClient
+Tue 2013.04.23 at 12:15:12: Initialize ConnectionManager
+Tue 2013.04.23 at 12:15:12: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 12:15:12: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:15:13: error connecting to rabbitmq
+Tue 2013.04.23 at 12:15:14: error connecting to rabbitmq
+Tue 2013.04.23 at 12:15:15: error connecting to rabbitmq
+Tue 2013.04.23 at 12:15:16: error connecting to rabbitmq
+Tue 2013.04.23 at 12:15:17: Service Announcer Initialized
+Tue 2013.04.23 at 12:15:17: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:16:30: initialize PCClient
+Tue 2013.04.23 at 12:16:30: Initialize ConnectionManager
+Tue 2013.04.23 at 12:16:30: invalid IP Address: localhost for host: Game
+Tue 2013.04.23 at 12:16:31: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:16:32: error connecting to rabbitmq
+Tue 2013.04.23 at 12:16:33: error connecting to rabbitmq
+Tue 2013.04.23 at 12:16:34: error connecting to rabbitmq
+Tue 2013.04.23 at 12:16:35: error connecting to rabbitmq
+Tue 2013.04.23 at 12:16:36: Service Announcer Initialized
+Tue 2013.04.23 at 12:16:36: Initialize rabbitmqConnection
+Tue 2013.04.23 at 12:16:39: Initialize rabbitmqConnection
+Fri 2013.05.31 at 07:36:44: initialize PCClient
+Fri 2013.05.31 at 07:36:45: Initialize ConnectionManager
+Fri 2013.05.31 at 07:36:45: invalid IP Address: localhost for host: Game
+Fri 2013.05.31 at 07:36:45: Initialize rabbitmqConnection
+Fri 2013.05.31 at 07:36:46: Service Announcer Initialized
+Fri 2013.05.31 at 07:36:46: Initialize rabbitmqConnection
+Fri 2013.05.31 at 07:37:27: initialize PCClient
+Fri 2013.05.31 at 07:37:27: Initialize ConnectionManager
+Fri 2013.05.31 at 07:37:27: invalid IP Address: localhost for host: Game
+Fri 2013.05.31 at 07:37:27: Initialize rabbitmqConnection
+Fri 2013.05.31 at 07:37:28: error connecting to rabbitmq
+Fri 2013.05.31 at 07:37:29: error connecting to rabbitmq
+Fri 2013.05.31 at 07:37:30: error connecting to rabbitmq
+Fri 2013.05.31 at 07:37:31: error connecting to rabbitmq
+Fri 2013.05.31 at 07:37:32: error connecting to rabbitmq
+Fri 2013.05.31 at 07:37:33: Service Announcer Initialized
+Fri 2013.05.31 at 07:37:33: Initialize rabbitmqConnection
+Fri 2013.05.31 at 07:40:02: initialize PCClient
+Fri 2013.05.31 at 07:40:02: Initialize ConnectionManager
+Fri 2013.05.31 at 07:40:02: invalid IP Address: localhost for host: Game
+Fri 2013.05.31 at 07:40:02: Initialize rabbitmqConnection
+Fri 2013.05.31 at 07:40:02: Service Announcer Initialized
+Fri 2013.05.31 at 07:40:02: Initialize rabbitmqConnection
+Fri 2013.05.31 at 07:40:10: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:04:39: initialize PCClient
+Mon 2013.09.02 at 11:04:39: Initialize ConnectionManager
+Mon 2013.09.02 at 11:04:39: invalid IP Address: localhost for host: Game
+Mon 2013.09.02 at 11:04:39: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:04:40: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:41: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:42: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:43: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:44: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:45: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:46: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:47: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:48: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:49: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:50: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:51: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:52: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:53: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:54: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:55: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:56: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:57: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:58: error connecting to rabbitmq
+Mon 2013.09.02 at 11:04:59: error connecting to rabbitmq
+Mon 2013.09.02 at 11:05:00: error connecting to rabbitmq
+Mon 2013.09.02 at 11:05:01: error connecting to rabbitmq
+Mon 2013.09.02 at 11:05:02: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:14: initialize PCClient
+Mon 2013.09.02 at 11:06:14: Initialize ConnectionManager
+Mon 2013.09.02 at 11:06:14: invalid IP Address: localhost for host: Game
+Mon 2013.09.02 at 11:06:14: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:06:15: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:16: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:17: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:18: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:19: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:20: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:21: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:22: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:23: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:24: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:25: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:26: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:27: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:28: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:29: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:30: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:31: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:32: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:33: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:34: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:35: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:36: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:37: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:38: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:39: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:40: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:41: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:42: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:43: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:44: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:45: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:46: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:47: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:48: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:49: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:50: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:51: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:52: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:53: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:54: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:55: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:56: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:57: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:58: error connecting to rabbitmq
+Mon 2013.09.02 at 11:06:59: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:00: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:01: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:02: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:03: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:04: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:05: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:06: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:07: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:08: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:09: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:10: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:11: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:12: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:13: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:14: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:18: initialize PCClient
+Mon 2013.09.02 at 11:07:18: Initialize ConnectionManager
+Mon 2013.09.02 at 11:07:18: invalid IP Address: localhost for host: Game
+Mon 2013.09.02 at 11:07:18: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:07:19: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:20: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:21: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:22: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:23: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:24: error connecting to rabbitmq
+Mon 2013.09.02 at 11:07:25: Service Announcer Initialized
+Mon 2013.09.02 at 11:07:25: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:09:33: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:19:00: initialize PCClient
+Mon 2013.09.02 at 11:19:00: Initialize ConnectionManager
+Mon 2013.09.02 at 11:19:00: invalid IP Address: localhost for host: Game
+Mon 2013.09.02 at 11:19:00: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:19:01: Service Announcer Initialized
+Mon 2013.09.02 at 11:19:01: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:19:35: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:19:39: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:19:40: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:19:42: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:20:21: initialize PCClient
+Mon 2013.09.02 at 11:20:21: Initialize ConnectionManager
+Mon 2013.09.02 at 11:20:21: invalid IP Address: localhost for host: Game
+Mon 2013.09.02 at 11:20:21: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:20:21: Service Announcer Initialized
+Mon 2013.09.02 at 11:20:21: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:20:27: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:27:18: initialize PCClient
+Mon 2013.09.02 at 11:27:18: Initialize ConnectionManager
+Mon 2013.09.02 at 11:27:18: invalid IP Address: localhost for host: Game
+Mon 2013.09.02 at 11:27:18: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:27:18: Service Announcer Initialized
+Mon 2013.09.02 at 11:27:18: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:27:55: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:28:00: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:28:04: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:29:27: initialize PCClient
+Mon 2013.09.02 at 11:29:27: Initialize ConnectionManager
+Mon 2013.09.02 at 11:29:27: invalid IP Address: localhost for host: Game
+Mon 2013.09.02 at 11:29:27: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:29:27: Service Announcer Initialized
+Mon 2013.09.02 at 11:29:27: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:32:01: initialize PCClient
+Mon 2013.09.02 at 11:32:01: Initialize ConnectionManager
+Mon 2013.09.02 at 11:32:01: invalid IP Address: localhost for host: Game
+Mon 2013.09.02 at 11:32:01: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:32:01: Service Announcer Initialized
+Mon 2013.09.02 at 11:32:01: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:36:29: initialize PCClient
+Mon 2013.09.02 at 11:36:29: Initialize ConnectionManager
+Mon 2013.09.02 at 11:36:29: invalid IP Address: localhost for host: Game
+Mon 2013.09.02 at 11:36:29: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:36:29: Service Announcer Initialized
+Mon 2013.09.02 at 11:36:29: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:40:00: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:40:05: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:40:08: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:40:10: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:40:11: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:40:13: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:40:14: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:40:39: initialize PCClient
+Mon 2013.09.02 at 11:40:40: Initialize ConnectionManager
+Mon 2013.09.02 at 11:40:40: invalid IP Address: localhost for host: Game
+Mon 2013.09.02 at 11:40:40: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:40:40: Service Announcer Initialized
+Mon 2013.09.02 at 11:40:40: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:40:46: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:42:32: initialize PCClient
+Mon 2013.09.02 at 11:42:32: Initialize ConnectionManager
+Mon 2013.09.02 at 11:42:32: invalid IP Address: localhost for host: Game
+Mon 2013.09.02 at 11:42:32: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:42:33: Service Announcer Initialized
+Mon 2013.09.02 at 11:42:33: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:42:55: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:43:20: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:43:59: initialize PCClient
+Mon 2013.09.02 at 11:43:59: Initialize ConnectionManager
+Mon 2013.09.02 at 11:43:59: invalid IP Address: localhost for host: Game
+Mon 2013.09.02 at 11:43:59: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:44:00: error connecting to rabbitmq
+Mon 2013.09.02 at 11:44:01: error connecting to rabbitmq
+Mon 2013.09.02 at 11:44:02: error connecting to rabbitmq
+Mon 2013.09.02 at 11:44:03: error connecting to rabbitmq
+Mon 2013.09.02 at 11:44:05: Service Announcer Initialized
+Mon 2013.09.02 at 11:44:05: Initialize rabbitmqConnection
+Mon 2013.09.02 at 11:44:09: Initialize rabbitmqConnection
+Mon 2013.09.02 at 12:26:15: initialize PCClient
+Mon 2013.09.02 at 12:26:15: Initialize ConnectionManager
+Mon 2013.09.02 at 12:26:15: invalid IP Address: localhost for host: Game
+Mon 2013.09.02 at 12:26:15: Initialize rabbitmqConnection
+Mon 2013.09.02 at 12:26:15: Service Announcer Initialized
+Mon 2013.09.02 at 12:26:15: Initialize rabbitmqConnection
+Mon 2013.09.02 at 12:26:50: initialize PCClient
+Mon 2013.09.02 at 12:26:51: Initialize ConnectionManager
+Mon 2013.09.02 at 12:26:51: invalid IP Address: localhost for host: Game
+Mon 2013.09.02 at 12:26:51: Initialize rabbitmqConnection
+Mon 2013.09.02 at 12:26:51: Service Announcer Initialized
+Mon 2013.09.02 at 12:26:51: Initialize rabbitmqConnection
+Mon 2013.09.02 at 12:29:17: Initialize rabbitmqConnection
+Mon 2013.12.16 at 12:27:47: initialize PCClient
+Mon 2013.12.16 at 12:27:47: Initialize ConnectionManager
+Mon 2013.12.16 at 12:27:47: invalid IP Address: localhost for host: Game
+Mon 2013.12.16 at 12:27:47: Initialize rabbitmqConnection
+Mon 2013.12.16 at 12:27:49: error connecting to rabbitmq
+Mon 2013.12.16 at 12:27:50: error connecting to rabbitmq
+Mon 2013.12.16 at 12:27:51: error connecting to rabbitmq
+Mon 2013.12.16 at 12:27:52: error connecting to rabbitmq
+Mon 2013.12.16 at 12:27:53: error connecting to rabbitmq
+Mon 2013.12.16 at 12:27:54: error connecting to rabbitmq
+Mon 2013.12.16 at 12:27:55: error connecting to rabbitmq
+Mon 2013.12.16 at 12:27:56: Service Announcer Initialized
+Mon 2013.12.16 at 12:27:56: Initialize rabbitmqConnection
+Mon 2013.12.16 at 12:33:44: initialize PCClient
+Mon 2013.12.16 at 12:33:44: Initialize ConnectionManager
+Mon 2013.12.16 at 12:33:44: invalid IP Address: localhost for host: Game
+Mon 2013.12.16 at 12:33:44: Initialize rabbitmqConnection
+Mon 2013.12.16 at 12:33:45: error connecting to rabbitmq
+Mon 2013.12.16 at 12:33:46: error connecting to rabbitmq
+Mon 2013.12.16 at 12:33:47: error connecting to rabbitmq
+Mon 2013.12.16 at 12:33:48: Service Announcer Initialized
+Mon 2013.12.16 at 12:33:48: Initialize rabbitmqConnection
+Wed 2014.01.22 at 02:29:06: initialize PCClient
+Wed 2014.01.22 at 02:29:06: Initialize ConnectionManager
+Wed 2014.01.22 at 02:29:06: invalid IP Address: localhost for host: Game
+Wed 2014.01.22 at 02:29:06: Initialize rabbitmqConnection
+Wed 2014.01.22 at 02:29:07: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:08: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:09: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:10: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:11: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:12: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:13: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:14: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:15: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:16: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:17: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:18: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:19: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:20: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:21: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:22: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:23: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:24: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:27: initialize PCClient
+Wed 2014.01.22 at 02:29:27: Initialize ConnectionManager
+Wed 2014.01.22 at 02:29:27: invalid IP Address: localhost for host: Game
+Wed 2014.01.22 at 02:29:27: Initialize rabbitmqConnection
+Wed 2014.01.22 at 02:29:28: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:29: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:30: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:31: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:32: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:33: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:34: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:35: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:36: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:37: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:38: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:39: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:40: initialize PCClient
+Wed 2014.01.22 at 02:29:40: Initialize ConnectionManager
+Wed 2014.01.22 at 02:29:40: invalid IP Address: localhost for host: Game
+Wed 2014.01.22 at 02:29:40: Initialize rabbitmqConnection
+Wed 2014.01.22 at 02:29:40: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:41: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:41: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:42: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:42: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:43: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:43: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:44: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:44: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:45: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:45: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:46: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:46: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:47: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:47: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:48: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:48: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:49: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:49: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:50: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:50: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:51: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:51: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:52: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:52: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:53: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:53: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:54: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:54: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:55: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:55: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:56: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:56: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:57: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:57: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:58: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:58: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:59: error connecting to rabbitmq
+Wed 2014.01.22 at 02:29:59: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:00: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:00: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:01: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:01: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:02: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:02: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:03: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:03: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:04: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:04: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:05: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:05: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:06: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:06: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:07: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:07: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:08: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:08: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:09: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:09: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:10: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:10: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:11: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:11: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:12: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:12: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:13: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:13: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:14: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:14: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:15: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:15: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:16: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:16: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:17: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:17: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:18: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:18: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:19: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:19: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:20: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:20: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:21: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:21: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:22: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:22: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:23: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:23: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:24: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:31: initialize PCClient
+Wed 2014.01.22 at 02:30:31: Initialize ConnectionManager
+Wed 2014.01.22 at 02:30:31: invalid IP Address: localhost for host: Game
+Wed 2014.01.22 at 02:30:31: Initialize rabbitmqConnection
+Wed 2014.01.22 at 02:30:32: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:33: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:34: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:35: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:36: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:37: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:38: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:39: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:40: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:41: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:42: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:43: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:44: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:45: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:46: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:47: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:48: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:49: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:50: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:51: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:52: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:53: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:54: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:55: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:56: error connecting to rabbitmq
+Wed 2014.01.22 at 02:30:57: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:00: initialize PCClient
+Wed 2014.01.22 at 02:31:00: Initialize ConnectionManager
+Wed 2014.01.22 at 02:31:00: invalid IP Address: localhost for host: Game
+Wed 2014.01.22 at 02:31:00: Initialize rabbitmqConnection
+Wed 2014.01.22 at 02:31:01: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:02: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:03: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:04: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:05: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:06: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:07: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:08: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:09: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:10: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:11: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:12: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:13: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:14: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:15: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:16: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:17: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:18: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:19: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:20: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:21: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:22: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:23: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:24: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:25: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:26: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:27: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:28: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:29: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:30: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:31: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:32: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:33: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:34: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:35: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:36: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:37: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:38: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:39: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:40: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:41: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:42: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:43: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:44: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:45: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:46: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:47: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:48: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:49: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:50: error connecting to rabbitmq
+Wed 2014.01.22 at 02:31:51: error connecting to rabbitmq

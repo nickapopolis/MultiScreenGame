@@ -1,0 +1,10 @@
+ServerPort:5671
+ServerIP:192.168.1.64
+ServerName:Server
+
+LobbyPort:5672
+LobbyIP:localhost
+LobbyName:Game
+RabbitMQDir: C:\\Program Files (x86)\\RabbitMQ Server\\rabbitmq_server-3.0.2\\sbin
+
+PlayerLobby:pcclient.events.PlayerLobbyEventHandler
